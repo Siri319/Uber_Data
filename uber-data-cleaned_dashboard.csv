@@ -1,0 +1,15 @@
+Row Labels,Sum of Request id,,,,,,,,
+Airport,96830,,,,,,,,
+City,343232,,,,,,,,
+Grand Total,440062,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Row Labels,Sum of Request id,,,Sum of Request id,Column Labels,,,
+,Cancelled,3949069,,,Row Labels,Cancelled,Completed,No Cars Available,Grand Total
+,Completed,9378847,,,Airport,651439,4317499,6219812,11188750
+,No Cars Available,9501514,,,City,3297630,5061348,3281702,11640680
+,Grand Total,22829430,,,Grand Total,3949069,9378847,9501514,22829430
